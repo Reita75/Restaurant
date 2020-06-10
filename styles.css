@@ -90,26 +90,6 @@ a{
 	color: #000;
 }
 
-.head__burger {}
-.head__burger_1 {
-	position: absolute;
-	left: 1250px;
-	width: 40px;
-	top: 86px;
-}
-.head__burger_2 {
-	position: absolute;
-	left: 1250px;
-	width: 40px;
-	top: 96px;
-}
-.head__burger_3 {
-	position: absolute;
-	left: 1250px;
-	width: 40px;
-	top: 106px;
-}
-
 .info {}
 .conteiner {}
 .info__menu {}
