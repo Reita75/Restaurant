@@ -261,6 +261,11 @@ a{
 	left: 230px;
 	top: 840px;
 }
+.about__circle{
+	position: absolute;
+	left: 675px;
+	top: 1060px;
+}
 
 .colums {
 	background: #E5E5E5;
